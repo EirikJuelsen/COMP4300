@@ -1,2 +1,2 @@
-# COMP6980
-Projects and learnings from Intro to Artificial Intelligence
+# COMP4300
+Projects and learnings from Game Programming

@@ -1,0 +1,4 @@
+Eirik Juelsen 1 95.5
+Per Gunnar 2 90.2
+Anders Andersen 3 55.5
+Ole Petter 4 76.4
